@@ -10,7 +10,7 @@ namespace Brains4It.WebApi.Airports.Request
 
         public int StartingIndex { get; set; }
 
-        public int ResponseSize { get; set; }
+        public int ResponseSize { get; set; } = 1000;
 
         public AirportTypeEnum[] Types { get; set; } 
 

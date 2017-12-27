@@ -17,26 +17,26 @@ namespace Brains4It.WebApi.Airports.Elastic.Converters
         {
             JObject jsonObject = JObject.Load(reader);
 
-            EsCountry country = jsonObject[EsConstants.Country].Value<EsCountry>();
-            GeoCoordinate coordinate = jsonObject[EsConstants.Coordinates].Value<GeoCoordinate>();
+            EsCountry country = jsonObject[EsConstants.Country]?.ToObject<EsCountry>(serializer) ?? null;
+            GeoCoordinate coordinate = jsonObject[EsConstants.Coordinates]?.ToObject<GeoCoordinate>(serializer) ?? null;
             Airport result = new Airport
             {
                 Id = jsonObject[EsConstants.Id].Value<string>(),
-                Type = ConvertType(jsonObject[EsConstants.Type].Value<string>()),
-                Name = jsonObject[EsConstants.Id].Value<string>(),
-                Elevation = jsonObject[EsConstants.Elevation].Value<double>(),
+                Type = ConvertType(jsonObject[EsConstants.Type]?.Value<string>()) ?? null,
+                Name = jsonObject[EsConstants.Name]?.Value<string>() ?? null,
+                Elevation = jsonObject[EsConstants.Elevation]?.Value<double>() ?? null,
                 Location = new Location
                 {
-                    Continent = jsonObject[EsConstants.Continent].Value<string>(),
-                    CountryName = country.name,
-                    IsoCode = country.iso_code,
-                    Municipality = jsonObject[EsConstants.Municipality].Value<string>(),
-                    Region = jsonObject[EsConstants.Region].Value<string>(),
+                    Continent = jsonObject[EsConstants.Continent]?.Value<string>() ?? null,
+                    CountryName = country?.name ?? null,
+                    IsoCode = country?.iso_code ?? null,
+                    Municipality = jsonObject[EsConstants.Municipality]?.Value<string>() ?? null,
+                    Region = jsonObject[EsConstants.Region]?.Value<string>() ?? null,
                 },
-                GpsCode = jsonObject[EsConstants.GpsCode].Value<string>(),
-                IataCode = jsonObject[EsConstants.IataCode].Value<string>(),
-                LocalCode = jsonObject[EsConstants.LocalCode].Value<string>(),
-                Point = new Point
+                GpsCode = jsonObject[EsConstants.GpsCode]?.Value<string>() ?? null,
+                IataCode = jsonObject[EsConstants.IataCode]?.Value<string>() ?? null,
+                LocalCode = jsonObject[EsConstants.LocalCode]?.Value<string>() ?? null,
+                Point = coordinate == null ? null : new Point
                 {
                     Latitude = coordinate.Latitude,
                     Longitude = coordinate.Longitude

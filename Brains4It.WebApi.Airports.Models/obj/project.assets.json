@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Models\\Brains4It.WebApi.Airports.Models.csproj",
+      "projectUniqueName": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Models\\Brains4It.WebApi.Airports.Models.csproj",
       "projectName": "Brains4It.WebApi.Airports.Models",
-      "projectPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Models\\Brains4It.WebApi.Airports.Models.csproj",
+      "projectPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Models\\Brains4It.WebApi.Airports.Models.csproj",
       "packagesPath": "C:\\Users\\houss\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Models\\obj\\",
+      "outputPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

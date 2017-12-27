@@ -3773,11 +3773,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Managers\\Brains4It.WebApi.Airports.Managers.csproj",
+      "projectUniqueName": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Managers\\Brains4It.WebApi.Airports.Managers.csproj",
       "projectName": "Brains4It.WebApi.Airports.Managers",
-      "projectPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Managers\\Brains4It.WebApi.Airports.Managers.csproj",
+      "projectPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Managers\\Brains4It.WebApi.Airports.Managers.csproj",
       "packagesPath": "C:\\Users\\houss\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Managers\\obj\\",
+      "outputPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Managers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -3798,14 +3798,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Models\\Brains4It.WebApi.Airports.Models.csproj": {
-              "projectPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Models\\Brains4It.WebApi.Airports.Models.csproj"
+            "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Models\\Brains4It.WebApi.Airports.Models.csproj": {
+              "projectPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Models\\Brains4It.WebApi.Airports.Models.csproj"
             },
-            "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Elastic\\Brains4It.WebApi.Airports.Elastic.csproj": {
-              "projectPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Elastic\\Brains4It.WebApi.Airports.Elastic.csproj"
+            "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Elastic\\Brains4It.WebApi.Airports.Elastic.csproj": {
+              "projectPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.Elastic\\Brains4It.WebApi.Airports.Elastic.csproj"
             },
-            "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.DataAccess\\Brains4It.WebApi.Airports.DataAccess.csproj": {
-              "projectPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.DataAccess\\Brains4It.WebApi.Airports.DataAccess.csproj"
+            "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.DataAccess\\Brains4It.WebApi.Airports.DataAccess.csproj": {
+              "projectPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.DataAccess\\Brains4It.WebApi.Airports.DataAccess.csproj"
             }
           }
         }

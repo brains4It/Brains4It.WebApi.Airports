@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -13,16 +14,22 @@ namespace Brains4It.WebApi.Airports.Models
 
         public string Name { get; set; }
 
+        [JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
         public Point Point { get; set; }
 
-        public double Elevation { get; set; }
+        [JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
+        public double? Elevation { get; set; }
 
+        [JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
         public Location Location { get; set; }
 
+        [JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
         public string GpsCode { get; set; }
 
+        [JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
         public string IataCode { get; set; }
 
+        [JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
         public string LocalCode { get; set; }
     }
 
@@ -46,14 +53,19 @@ namespace Brains4It.WebApi.Airports.Models
 
     public class Location
     {
+        [JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
         public string Continent { get; set; }
 
+        [JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
         public string IsoCode { get; set; }
 
+        [JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
         public string CountryName { get; set; }
 
+        [JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
         public string Region { get; set; }
 
+        [JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
         public string Municipality { get; set; }
 
     }

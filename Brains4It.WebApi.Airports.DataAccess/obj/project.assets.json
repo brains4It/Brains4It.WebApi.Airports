@@ -3960,11 +3960,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.DataAccess\\Brains4It.WebApi.Airports.DataAccess.csproj",
+      "projectUniqueName": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.DataAccess\\Brains4It.WebApi.Airports.DataAccess.csproj",
       "projectName": "Brains4It.WebApi.Airports.DataAccess",
-      "projectPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.DataAccess\\Brains4It.WebApi.Airports.DataAccess.csproj",
+      "projectPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.DataAccess\\Brains4It.WebApi.Airports.DataAccess.csproj",
       "packagesPath": "C:\\Users\\houss\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.DataAccess\\obj\\",
+      "outputPath": "C:\\Workspaces\\Brains4It.WebApi.Airports\\Brains4It.WebApi.Airports.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

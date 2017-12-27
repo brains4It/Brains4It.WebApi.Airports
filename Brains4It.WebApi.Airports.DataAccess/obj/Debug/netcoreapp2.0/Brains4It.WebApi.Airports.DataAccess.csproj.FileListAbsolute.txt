@@ -7,3 +7,12 @@ C:\Workspaces\Brains4It.WebApi.Airports\Brains4It.WebApi.Airports\Brains4It.WebA
 C:\Workspaces\Brains4It.WebApi.Airports\Brains4It.WebApi.Airports\Brains4It.WebApi.Airports.DataAccess\bin\Debug\netcoreapp2.0\Brains4It.WebApi.Airports.DataAccess.pdb
 C:\Workspaces\Brains4It.WebApi.Airports\Brains4It.WebApi.Airports\Brains4It.WebApi.Airports.DataAccess\obj\Debug\netcoreapp2.0\Brains4It.WebApi.Airports.DataAccess.dll
 C:\Workspaces\Brains4It.WebApi.Airports\Brains4It.WebApi.Airports\Brains4It.WebApi.Airports.DataAccess\obj\Debug\netcoreapp2.0\Brains4It.WebApi.Airports.DataAccess.pdb
+C:\Workspaces\Brains4It.WebApi.Airports\Brains4It.WebApi.Airports.DataAccess\bin\Debug\netcoreapp2.0\Brains4It.WebApi.Airports.DataAccess.deps.json
+C:\Workspaces\Brains4It.WebApi.Airports\Brains4It.WebApi.Airports.DataAccess\bin\Debug\netcoreapp2.0\Brains4It.WebApi.Airports.DataAccess.dll
+C:\Workspaces\Brains4It.WebApi.Airports\Brains4It.WebApi.Airports.DataAccess\bin\Debug\netcoreapp2.0\Brains4It.WebApi.Airports.DataAccess.pdb
+C:\Workspaces\Brains4It.WebApi.Airports\Brains4It.WebApi.Airports.DataAccess\obj\Debug\netcoreapp2.0\Brains4It.WebApi.Airports.DataAccess.csprojResolveAssemblyReference.cache
+C:\Workspaces\Brains4It.WebApi.Airports\Brains4It.WebApi.Airports.DataAccess\obj\Debug\netcoreapp2.0\Brains4It.WebApi.Airports.DataAccess.csproj.CoreCompileInputs.cache
+C:\Workspaces\Brains4It.WebApi.Airports\Brains4It.WebApi.Airports.DataAccess\obj\Debug\netcoreapp2.0\Brains4It.WebApi.Airports.DataAccess.AssemblyInfoInputs.cache
+C:\Workspaces\Brains4It.WebApi.Airports\Brains4It.WebApi.Airports.DataAccess\obj\Debug\netcoreapp2.0\Brains4It.WebApi.Airports.DataAccess.AssemblyInfo.cs
+C:\Workspaces\Brains4It.WebApi.Airports\Brains4It.WebApi.Airports.DataAccess\obj\Debug\netcoreapp2.0\Brains4It.WebApi.Airports.DataAccess.dll
+C:\Workspaces\Brains4It.WebApi.Airports\Brains4It.WebApi.Airports.DataAccess\obj\Debug\netcoreapp2.0\Brains4It.WebApi.Airports.DataAccess.pdb
